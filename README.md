@@ -18,7 +18,7 @@ Content:
 The easiest way to install dyn-cli is to use [pip](https://pip.pypa.io//en/latest/):
 
 ```bash
-$ pip install dyncli
+$ pip install dyn-cli
 ```
 
 ## Usage
